@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
-    "start-frontend": "cd frontend && npm start",
+    "start-frontend": "react-scripts start",
     "start-backend": "python app.py",
     "build": "react-scripts build",
     "test": "react-scripts test",
