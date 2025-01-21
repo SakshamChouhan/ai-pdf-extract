@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ai-pdf-extract/static/css/main.120a573a.chunk.css",
+    "main.js": "/ai-pdf-extract/static/js/main.ca3a1eda.chunk.js",
+    "main.js.map": "/ai-pdf-extract/static/js/main.ca3a1eda.chunk.js.map",
+    "runtime~main.js": "/ai-pdf-extract/static/js/runtime~main.1beb287f.js",
+    "runtime~main.js.map": "/ai-pdf-extract/static/js/runtime~main.1beb287f.js.map",
+    "static/js/2.6cf622a5.chunk.js": "/ai-pdf-extract/static/js/2.6cf622a5.chunk.js",
+    "static/js/2.6cf622a5.chunk.js.map": "/ai-pdf-extract/static/js/2.6cf622a5.chunk.js.map",
+    "static/js/3.c02789ba.chunk.js": "/ai-pdf-extract/static/js/3.c02789ba.chunk.js",
+    "static/js/3.c02789ba.chunk.js.map": "/ai-pdf-extract/static/js/3.c02789ba.chunk.js.map",
+    "index.html": "/ai-pdf-extract/index.html",
+    "precache-manifest.f8241a29772c4f219724c1e35ea9a6a7.js": "/ai-pdf-extract/precache-manifest.f8241a29772c4f219724c1e35ea9a6a7.js",
+    "service-worker.js": "/ai-pdf-extract/service-worker.js",
+    "static/css/main.120a573a.chunk.css.map": "/ai-pdf-extract/static/css/main.120a573a.chunk.css.map"
+  }
+}
