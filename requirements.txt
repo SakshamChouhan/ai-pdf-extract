@@ -1,5 +1,5 @@
 Flask==2.3.2
 Flask_Cors==5.0.0
 pdfplumber==0.11.5
-spacy==3.8.4
+spacy==3.7.6
 en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
