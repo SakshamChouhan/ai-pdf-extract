@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "npm install --legacy-peer-deps && concurrently \"npm run start-frontend\" \"npm run start-backend\"",
-    "start-frontend": "react-scripts start",
+    "start-frontend": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "start-backend": "python app.py",
     "prebuild": "npm install --legacy-peer-deps && npm run setup-backend",
     "build": "npm run prebuild && react-scripts build",
