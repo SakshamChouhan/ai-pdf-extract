@@ -37,5 +37,5 @@ Make sure you have the following installed:
 Start the application with:
 ```bash
 npm start
-
+```
 ## CodeLikeARed❤️
